@@ -1,26 +1,13 @@
 <!-- README.md | GitHub Profile -->
 
-<h1 align="center">Hi 👋, I'm Wahyu Nur Cahyati</h1>
-<h3 align="center">
-Data Analyst • Data Scientist • Web Developer • UI/UX Designer
-</h3>
-
+<h1 align="center">Hi 👋, I'm Tyaa</h1>
 <p align="center">
-  <i>
-    I enjoy working with data, building functional websites, 
-    and designing simple yet user-friendly interfaces.
-  </i>
+  I'm a student with a strong interest in <b>data</b>, <b>web development</b>, and <b>UI/UX design</b>. 
+  I enjoy exploring data to uncover meaningful insights, building functional web applications 
+  from backend to frontend, and designing simple, user-friendly interfaces that create 
+  a comfortable and intuitive user experience.
 </p>
 
----
-<p>
-I'm a student with a strong interest in <b>data</b>, <b>web development</b>, 
-and <b>UI/UX design</b>. I enjoy analyzing data to discover insights, 
-developing web applications on both backend and frontend sides, 
-and designing interfaces that focus on user experience.
-</p>
-
----
 
 <h2>Tools</h2>
 
@@ -62,15 +49,9 @@ and designing interfaces that focus on user experience.
 
 </div>
 
-<div style="display: inline-block; width: 38%; vertical-align: top; text-align: center;">
-
-  <p>
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyunurc&layout=compact" />
   </p>
-
-</div>
-
----
 
 <p align="center">
   <i>Oks oks Tengkyuu~~</i>
